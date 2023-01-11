@@ -6,7 +6,7 @@
 
 ## 协议 ##
 
-参照SCP基金会的格式，即为[CC-sa-by 3.0](LICENSE.md)
+参照SCP基金会[sigma9](https://github.com/SCP-CN-Tech/sigma9)，即为[CC-sa-by 3.0](LICENSE.md)。
 
 ## 用法 ##
 
@@ -19,7 +19,7 @@
 ## 演示截图 ##
 
 - 可以看出仍有许多bug以及未修改处。
-- 由于导出图片产生的部分问题是未限制边框造成的
+- 由于导出图片产生的部分问题是未限制边框造成的。
 
 ![test](test.png)
 
