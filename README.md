@@ -10,7 +10,7 @@
 
 ## 用法 ##
 
-通常为把 `sigma9.css`文件拖入[这里](C:\Users\huangjm\AppData\Roaming\Typora\themes)。
+通常为把 `sigma9.css`文件拖入[这里](C:\Users\huangjm\AppData\Roaming\Typora\themes)[^？]。
 
 ## 演示截图 ##
 
@@ -20,5 +20,5 @@
 
 [^cn]:明确的来源是http://www.scp-wiki.net
 
-
+[^？]:在网页上无法正常显示`C:\Users\huangjm\AppData\Roaming\Typora\themes`
 
