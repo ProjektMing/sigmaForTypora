@@ -12,6 +12,10 @@
 
 通常为把 `sigma9.css`文件拖入[这里](C:\Users\huangjm\AppData\Roaming\Typora\themes)[^？]。
 
+## 求助 ##
+
+我对css一知半解，如果有建议欢迎提出。
+
 ## 演示截图 ##
 
 - 可以看出仍有许多bug以及未修改处。
