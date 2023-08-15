@@ -23,7 +23,7 @@
 
 ![test](test.png)
 
-[^cn]:明确的来源是http://www.scp-wiki.net
+[^cn]:实际上落后于英文主站主题。
 
-[^？]:在网页上无法正常显示`C:\Users\huangjm\AppData\Roaming\Typora\themes`
+[^？]:在网页上无法正常显示`C:\Users\{username}\AppData\Roaming\Typora\themes`
 
